@@ -1,10 +1,14 @@
 /**
- * Created by QC.L on 2017/4/20.
+ * Created by dllo on 17/7/31.
  */
+
+
 
 const assert = require('assert');
 // assert(value 表达式如果表达是不成立 抛出 ','后面的字符串,)
 console.assert(1 !== 100, '1绝对不等于100');
+
+
 
 var a = 2;
 var b = 3;
